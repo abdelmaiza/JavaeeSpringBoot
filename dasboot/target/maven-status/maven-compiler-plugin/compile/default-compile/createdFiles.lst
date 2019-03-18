@@ -1,0 +1,5 @@
+com\boot\cotroller\HomeCotroller.class
+com\boot\App.class
+com\boot\model\Shipwreck.class
+com\boot\cotroller\ShipwreckController.class
+com\boot\cotroller\ShipwreckStub.class
